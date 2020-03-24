@@ -502,6 +502,7 @@ input, select, textarea {
 			margin-left: -3em;
 		}
 
+
 			.row.gtr-150 > * {
 				padding: 0 0 0 3em;
 			}
@@ -2395,6 +2396,10 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+			}
+
+			.image.fit.center {
+					margin: 0 0 2em 3em;
 			}
 
 /* List */
