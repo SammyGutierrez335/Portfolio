@@ -2303,6 +2303,9 @@ input, select, textarea {
 		.icon.style1:before {
 			color: #c3e895;
 		}
+		.style1 {
+			
+		}
 
 		.icon.style2:before {
 			color: #8addaa;
@@ -2387,7 +2390,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 66%;
 		}
 
 			.image.fit img {
